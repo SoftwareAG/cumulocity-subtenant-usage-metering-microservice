@@ -1,7 +1,7 @@
 # cumulocity-subtenant-usage-metering-microservice
 
 
-This project is an microservice that requests tenant statistics for all its subtenants and historicizes them as measurements on a created device. With that the approach it can be monitored on a timeseries bases what happens in the subtenants. Furthermore e.g. Smart Rules or Analytics Builder can be used to alert due to certain usage behaviours.
+This project is an microservice that requests tenant statistics for all its subtenants and historicizes them as measurements. It therefore creates a device for ecery subtenant. With that approach it can be monitored on a timeseries bases what happens in the subtenants. Furthermore e.g. Smart Rules or Analytics Builder can be used to alert due to certain usage behaviours.
 
 # Content
 - [cumulocity-subtenant-usage-metering-microservice](#cumulocity-subtenant-usage-metering-microservice)
