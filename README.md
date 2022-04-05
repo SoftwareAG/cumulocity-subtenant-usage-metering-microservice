@@ -13,7 +13,16 @@ This project is an microservice that requests tenant statistics for all its subt
 # Quick Start
 Use the provided zip here in the release and upload it as microservice.
 
-![Upload](/resources/upload.png)
+<br/><br/>
+<p style="text-indent:30px;">
+  <a>
+  <center>
+    <img width="50%" src="resources/upload.png">
+  </center>
+  </a>
+</p>
+<br/>
+
 
 # Solution components
 
@@ -37,8 +46,15 @@ zip {NAMEOFSERVICE} cumulocity.json image.tar
 
 You can upload the microservice via the UI or via [go-c8y-cli](https://github.com/reubenmiller/go-c8y-cli)
 
-![Measurements](/resources/measurements.png)
-
+<br/><br/>
+<p style="text-indent:30px;">
+  <a>
+  <center>
+    <img width="80%" src="resources/measurements.png">
+  </center>
+  </a>
+</p>
+<br/>
 
 ------------------------------
 
